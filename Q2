@@ -1,0 +1,10 @@
+Algorithm
+Ask the user NoOfHoursWorked
+Ask the user PayRate
+Set GrossPay to (NoOfHoursWorked * PayRate)
+Display GrossPay
+
+PseudoCode
+INPUT NoOfHoursWorked, PayRate
+SET GrossPay = NoOfHoursWorked * PayRate
+DISPLAY GrossPay
